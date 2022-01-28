@@ -1,0 +1,3 @@
+# Playground to learn to use WordCloud....
+
+Have you ever thought what make the diference between a song from another... besides the obvious. One factor to take into account could be how rich is the language used (more words in the lyrics, frequency, cadence, etc).This code come to play with some parameters to see if those parameters are relevant (or not).
